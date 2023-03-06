@@ -1,24 +1,24 @@
 # Training
 
-<b>VScode plugin</b>
-live server (auto refresh of your browser)
-live sass compiler (for scss)
+VScode plugin
+* live server (auto refresh of your browser)
+* live sass compiler (for scss)<br><br>
 
-
-* URL Bootstrap
+Get started with Bootstrap
+  * URL Bootstrap
   Visit https://getbootstrap.com/
 
-* Install via package manager (This is the latest version
+Install via package manager (This is the latest version)
   ```
   - $ npm install bootstrap@5.3.0-alpha1
   ```
   ```
   - $ gem install bootstrap -v 5.3.0-alpha1
   ```
+ <br><br>
   
   
-  
-* Include via CDN
+Include via CDN
 
  < --- HTML --->
 ```ruby
