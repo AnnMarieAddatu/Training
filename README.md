@@ -1,8 +1,9 @@
 # Training
 
-VScode plugin
-- live server (auto refresh of your browser)
-- live sass compiler (for scss)
+<b>VScode plugin</b>
+live server (auto refresh of your browser)
+live sass compiler (for scss)
+
 
 * URL Bootstrap
   Visit https://getbootstrap.com/
