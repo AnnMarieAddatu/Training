@@ -8,7 +8,7 @@ Get started with Bootstrap
   * URL Bootstrap
   Visit https://getbootstrap.com/
 
-Install via package manager (This is the latest version)
+Install via package manager (This is the latest version as of March 6, 2023)
   ```
   - $ npm install bootstrap@5.3.0-alpha1
   ```
