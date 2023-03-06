@@ -5,11 +5,15 @@ VScode plugin
 - live sass compiler (for scss)
 
 * URL Bootstrap
-  - https://getbootstrap.com/
+  Visit https://getbootstrap.com/
 
 * Install via package manager (This is the latest version
+  ```
   - $ npm install bootstrap@5.3.0-alpha1
+  ```
+  ```
   - $ gem install bootstrap -v 5.3.0-alpha1
+  ```
   
   
   
