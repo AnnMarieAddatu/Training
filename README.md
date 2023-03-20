@@ -1,4 +1,4 @@
-# Training
+# Boostrap
 
 VScode plugin
 * live server (auto refresh of your browser)
